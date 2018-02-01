@@ -1,0 +1,4 @@
+cd ..
+cd patch
+midiprg
+
