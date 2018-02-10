@@ -5,3 +5,4 @@
 5 ; Create file 8088.ASM by:                                       ; 
 6 ; COPY 8088RAM.1 + 8088RAM.2 + 8088ROM1 + 8088ROM2  8088.ASM     ; 
 7 ;----------------------------------------------------------------; 
+Midi Keyboard Controller using a CMOS V20 CPU and programmed in 8088 assembler
