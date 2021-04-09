@@ -1,4 +1,4 @@
-## Midi Keyboard Controller using a CMOS V20 CPU and programmed in 8088 assembler
+## Midi Keyboard Controller using a CMOS V20 CPU and programmed with an 8088 assembler
 
 
 Create the file 8088.ASM by:   
